@@ -1,6 +1,6 @@
 # Invalid jarfile
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Скриншот ошибки</p></figcaption></figure>
+<figure><img src="https://github.com/Kanorto/VWIKI/assets/77388225/9445ecfb-8e2d-4343-891b-a7c2acb5d8ac" alt=""><figcaption><p>Скриншот ошибки</p></figcaption></figure>
 
 Стандартная ошибка при которой Java не может найти или использовать jar файл. Ниже приведу несколько причин, как решить эту проблему.
 
@@ -8,7 +8,7 @@
 
 Стандартная ошибка заключается в том, что вы не переименовали server.jar в настройках. Рассказываю как это сделать.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Быстрый гайд на картинке</p></figcaption></figure>
+<figure><img src="https://github.com/Kanorto/VWIKI/assets/77388225/3ece6cbf-f565-40f0-9776-885774f89836" alt=""><figcaption><p>Быстрый гайд на картинке</p></figcaption></figure>
 
 1. Заходим в <mark style="color:blue;">`Файлы`</mark> или заранее копируем имя файла.
 2. Копируем имя файла, например <mark style="color:purple;">`purpur-1.20.2-2095.jar`</mark>.
