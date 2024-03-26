@@ -2,6 +2,10 @@
 
 * [🖨️ Главная](README.md)
 
+## Главные инструкции <a href="#main-instructions" id="main-instructions"></a>
+
+## Полезные советы <a href="#useful-tips" id="useful-tips"></a>
+
 ## 🟩 Minecraft
 
 * [📃 Инструкции](minecraft/guides/README.md)
@@ -19,6 +23,7 @@
 ## О тарифах <a href="#tariffs" id="tariffs"></a>
 
 * [💵 Промо-тарифы](tariffs/promo-tarify.md)
+* [🆓 Бесплатные тарифы](tariffs/free.md)
 
 ## Ошибки <a href="#errors" id="errors"></a>
 
