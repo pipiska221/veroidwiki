@@ -2,15 +2,12 @@
 
 * [🖨️ Главная](README.md)
 
-## Главные инструкции <a href="#main-instructions" id="main-instructions"></a>
-
-## Полезные советы <a href="#useful-tips" id="useful-tips"></a>
-
 ## 🟩 Minecraft
 
 * [📃 Инструкции](minecraft/guides/README.md)
-  * [⚒️ Как поменять ядро на своём сервере](minecraft/guides/kak-pomenyat-yadro-na-svoyom-servere.md)
+  * [Настройка Geyser](minecraft/guides/geysermc.md)
   * [Настройка Velocity](minecraft/guides/velocity.md)
+  * [⚒️ Как поменять ядро на своём сервере](minecraft/guides/kak-pomenyat-yadro-na-svoyom-servere.md)
   * [💾 Как подключиться к серверу по SFTP для передачи файлов](minecraft/guides/kak-podklyuchitsya-k-serveru-po-sftp-dlya-peredachi-failov.md)
 * [🪛 Советы](minecraft/advice/README.md)
   * [💔 Проблемные и хорошие плагины, тормозившие/оптимизирующие ваш сервер](minecraft/advice/problemnye-i-khoroshie-plaginy-tormozivshie-optimiziruyushie-vash-server.md)

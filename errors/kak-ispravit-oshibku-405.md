@@ -6,7 +6,7 @@ description: >-
 
 # ❌ Как исправить ошибку 405
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ошибка 405 Method Not Allowed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ошибка 405 Method Not Allowed</p></figcaption></figure>
 
 ❌ Это ошибка кеша в вашем браузере. Вам нужно сделать:
 

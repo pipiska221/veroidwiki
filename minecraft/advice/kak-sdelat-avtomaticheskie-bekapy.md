@@ -26,16 +26,16 @@ layout:
 
 2. Создаем расписание с любым названием.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. После создание расписания нажимаем заходим в его настройки и нажимаем на кнопку "Новая задача".
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 4.  Тут вы можете выбрать любое действие, которое вы хотите поставить в задачу, которое будет выполнятся каждые 5 минут, как в нашем случае. Но Вы можете всегда можете изменить этот интервал отредактировав расписание.
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Создаем задачу.
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 6. Теперь ваши данные на сервере будет бекапиться каждые 5 минут (в нашем случае). Для того чтобы ваши архивы создавались раз в день и не затрагивали игроков советуем ставить время около 3-х часов ночи. Для этого в разделе час ставим `3`. Все, вы молодец!
