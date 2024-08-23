@@ -20,7 +20,6 @@
 
 ## О тарифах <a href="#tariffs" id="tariffs"></a>
 
-* [💵 Промо-тарифы](tariffs/promo-tarify.md)
 * [🆓 Бесплатные тарифы](tariffs/free.md)
 
 ## Ошибки <a href="#errors" id="errors"></a>

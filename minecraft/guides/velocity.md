@@ -1,7 +1,11 @@
+---
+icon: gear
+---
+
 # Настройка Velocity
 
 Пункты которые должны быть выполнены до прочтения остальных пунктов:\
-1 - У вас должно быть 2 сервера&#x20;
+1 - У вас должно быть 2 сервера
 
 {% hint style="danger" %}
 Оба сервера (Velocity и purpur) должны стоять на одной ноде для стабильности соединения!
@@ -16,7 +20,7 @@
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/d38e07f4-03fe-4db8-a568-22bf1f4598a4" alt=""><figcaption></figcaption></figure>
 
 \
-Шаг 2: Зайдите на наш [сайт](https://mgr.veroid.net/), выберите сервер где у вас при создании сервера было поставлено Velocity и перейдите на него.&#x20;
+Шаг 2: Зайдите на нашу [панель](https://mgr.veroid.net), выберите сервер где у вас при создании сервера было поставлено Velocity и перейдите на него.
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/efc57463-0c9d-4136-b2a7-01ff24f7d6b7" alt=""><figcaption><p>Выберите сервер на котором будет Velocity</p></figcaption></figure>
 
@@ -26,13 +30,12 @@
 
 Шаг 2.2: Пролистните чуть ниже и найдите файл server.jar
 
-<figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/2a01dff9-201b-433c-b9e3-fe3602f50390" alt=""><figcaption><p>Найдите предустановленый server.jar и удалите его</p></figcaption></figure>
+<figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/2a01dff9-201b-433c-b9e3-fe3602f50390" alt=""><figcaption><p>Найдите предустановленный server.jar и удалите его</p></figcaption></figure>
 
 Шаг 3: Нажмите ![image](https://github.com/Dosto4ka/VWIKI/assets/57598008/6fb17057-ca83-4f60-b5e9-49dd7ebc379c) и удалите данный файл.
 
 {% hint style="info" %}
-1.  Находим ![image](https://github.com/Dosto4ka/VWIKI/assets/57598008/6fb17057-ca83-4f60-b5e9-49dd7ebc379c) справа от файла\
-
+1.  Находим ![image](https://github.com/Dosto4ka/VWIKI/assets/57598008/6fb17057-ca83-4f60-b5e9-49dd7ebc379c) справа от файла\\
 
     <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/7ca41560-d5a2-4750-a177-37b062e54b34" alt=""><figcaption></figcaption></figure>
 2. Выбираем в открывшемся окне `Удалить`\
@@ -49,7 +52,7 @@
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/3857f6df-5660-4bba-a7b8-6743866e613e" alt=""><figcaption></figcaption></figure>
 
-Шаг 6.1: Нажмите на версию вашей Java.&#x20;
+Шаг 6.1: Нажмите на версию вашей Java.
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/20251b27-8159-4bd1-8f93-22f14fc76668" alt=""><figcaption><p>Измените Java и имя ядра</p></figcaption></figure>
 
@@ -59,13 +62,13 @@
 
 Шаг 6.2: Вставьте ранее скопированное имя файла в раздел `ИМЯ ЯДРА У СЕРВЕРА`
 
-Шаг 7: Запустите сервер Velocity используя вкладку `Консоль`&#x20;
+Шаг 7: Запустите сервер Velocity используя вкладку `Консоль`
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/24d55d10-ee7d-43d6-9955-b4ab22cc7006" alt=""><figcaption></figcaption></figure>
 
 ## 2 - Настройка Velocity
 
-Шаг 1: Перейдите во вкладку `Файлы`&#x20;
+Шаг 1: Перейдите во вкладку `Файлы`
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/db428d64-da71-41d8-b1ab-be619a4a1e1f" alt=""><figcaption></figcaption></figure>
 
@@ -98,7 +101,7 @@
 
 Шаг 7: Найдите файл с названием `forwarding.secret` и скопируйте то что в нём находится, оно вам понадобится в пункте 3.
 
-Шаг 8: Перезапустите сервер Velocity используя вкладку `Консоль`&#x20;
+Шаг 8: Перезапустите сервер Velocity используя вкладку `Консоль`
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/24d55d10-ee7d-43d6-9955-b4ab22cc7006" alt=""><figcaption></figcaption></figure>
 
@@ -108,11 +111,11 @@
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/06b65aa6-f472-4c80-8317-2528ef9c22b5" alt=""><figcaption><p>Раздел панели</p></figcaption></figure>
 
-Шаг 1.1: Выберите ваш основной сервер и перейдите на него.&#x20;
+Шаг 1.1: Выберите ваш основной сервер и перейдите на него.
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/efc57463-0c9d-4136-b2a7-01ff24f7d6b7" alt=""><figcaption><p>Основной сервер</p></figcaption></figure>
 
-Шаг 2: Перейдите во вкладку `Файлы`&#x20;
+Шаг 2: Перейдите во вкладку `Файлы`
 
 <figure><img src="https://github.com/Dosto4ka/VWIKI/assets/57598008/db428d64-da71-41d8-b1ab-be619a4a1e1f" alt=""><figcaption><p>Вкладка файлы</p></figcaption></figure>
 
@@ -129,4 +132,4 @@
 
 ## Небольшая заметка:
 
-Подключаться нужно через Velocity. **Напрямую подключиться к указанному в конфигурации серверу не получиться!** В случае если остались вопросы или данная статья вам не помогла, обратитесь в тикеты.&#x20;
+Подключаться нужно через Velocity. **Напрямую подключиться к указанному в конфигурации серверу не получиться!** В случае если остались вопросы или данная статья вам не помогла, обратитесь в тикеты.
